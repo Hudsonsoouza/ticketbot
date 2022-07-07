@@ -2,4 +2,4 @@
 
 Bot de ticket voltado para comunidades e lojas no discord
 
-Depêndencias
+<h2>Depêndencias</h2>
